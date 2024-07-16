@@ -1,0 +1,121 @@
+,question,type,trait,score_type,question_code
+0,I express myself easily.,Dominance ,ASSERTIVENESS ,plus,A1
+1,I try to lead others.,Dominance ,ASSERTIVENESS ,plus,A2
+2,I automatically take charge.,Dominance ,ASSERTIVENESS ,plus,A3
+3,I know how to convince others.,Dominance ,ASSERTIVENESS ,plus,A4
+4,I am the first to act.,Dominance ,ASSERTIVENESS ,plus,A5
+5,I take control of things.,Dominance ,ASSERTIVENESS ,plus,A6
+6,I wait for others to lead the way.,Dominance ,ASSERTIVENESS ,minus,A7
+7,I let others make the decisions.,Dominance ,ASSERTIVENESS ,minus,A8
+8,I am not highly motivated to succeed.,Dominance ,ASSERTIVENESS ,minus,A9
+9,I can't come up with new ideas.,Dominance ,ASSERTIVENESS ,minus,A10
+10,I carry the conversation to a higher level.,Dominance ,COMPLEXITY ,plus,C11
+11,I engage in discussions.,Dominance ,COMPLEXITY ,plus,C12
+12,I am willing to talk about myself.,Dominance ,COMPLEXITY ,plus,C13
+13,I understand people who think differently.,Dominance ,COMPLEXITY ,plus,C14
+14,I enjoy thinking about things.,Dominance ,COMPLEXITY ,plus,C15
+15,I can see different points of view.,Dominance ,COMPLEXITY ,plus,C16
+16,I rarely look for a deeper meaning in things.,Dominance ,COMPLEXITY ,minus,C17
+17,I do not like concerts.,Dominance ,COMPLEXITY ,minus,C18
+18,I am not interested in speculating about things.,Dominance ,COMPLEXITY ,minus,C19
+19,I come up with something new.,Dominance ,INSIGHT ,plus,I20
+20,I throw a new light on the situation.,Dominance ,INSIGHT ,plus,I21
+21,I come up with alternatives.,Dominance ,INSIGHT ,plus,I22
+22,I put a new perspective on things.,Dominance ,INSIGHT ,plus,I23
+23,I have a vivid imagination.,Dominance ,INSIGHT ,plus,I24
+24,I would describe my experiences as somewhat dull.,Dominance ,INSIGHT ,minus,I25
+25,I have little to contribute.,Dominance ,INSIGHT ,minus,I26
+26,I consider myself an average person.,Dominance ,INSIGHT ,minus,I27
+27,I say nothing new.,Dominance ,INSIGHT ,minus,I28
+28,I have difficulty imagining things.,Dominance ,INSIGHT ,minus,I29
+29,I feel comfortable around people.,Influence ,SOCIABILITY ,plus,S30
+30,I act comfortably with others.,Influence ,SOCIABILITY ,plus,S31
+31,I am skilled in handling social situations.,Influence ,SOCIABILITY ,plus,S32
+32,I talk to a lot of different people at parties.,Influence ,SOCIABILITY ,plus,S33
+33,I start conversations.,Influence ,SOCIABILITY ,plus,S34
+34,I often feel uncomfortable around others.,Influence ,SOCIABILITY ,minus,S35
+35,I have little to say.,Influence ,SOCIABILITY ,minus,S36
+36,I find it difficult to approach others.,Influence ,SOCIABILITY ,minus,S37
+37,I have difficulty expressing my feelings.,Influence ,SOCIABILITY ,minus,S38
+38,I only feel comfortable with friends.,Influence ,SOCIABILITY ,minus,S39
+39,I trust others.,Influence ,STABILITY ,plus,S40
+40,I do things that others find strange.,Influence ,STABILITY ,minus,S41
+41,I live in a world of my own.,Influence ,STABILITY ,minus,S42
+42,I do unexpected things.,Influence ,STABILITY ,minus,S43
+43,I am hard to understand.,Influence ,STABILITY ,minus,S44
+44,I make enemies.,Influence ,STABILITY ,minus,S45
+45,I snap at people.,Influence ,STABILITY ,minus,S46
+46,I go on binges.,Influence ,STABILITY ,minus,S47
+47,I get bored easily.,Influence ,STABILITY ,minus,S48
+48,I get back at others.,Influence ,STABILITY ,minus,S49
+49,I am interested in many things.,Influence ,DEPTH,plus,D50
+50,I see the humor in situations.,Influence ,DEPTH,plus,D51
+51,I make people feel at ease.,Influence ,DEPTH,plus,D52
+52,I approach others in a positive manner.,Influence ,DEPTH,plus,D53
+53,I want to increase my knowledge.,Influence ,DEPTH,plus,D54
+54,I do not like poetry.,Influence ,DEPTH,minus,D55
+55,I rarely smile.,Influence ,DEPTH,minus,D56
+56,I don't like the idea of change.,Influence ,DEPTH,minus,D57
+57,I hide my real intentions.,Influence ,DEPTH,minus,D58
+58,I am not easily amused.,Influence ,DEPTH,minus,D59
+59,I am not easily affected by my emotions.,Steadiness ,SELF-CONTROL,plus,S60
+60,I never spend more than I can afford.,Steadiness ,SELF-CONTROL,plus,S61
+61,I experience very few emotional highs and lows.,Steadiness ,SELF-CONTROL,plus,S62
+62,I act wild and crazy.,Steadiness ,SELF-CONTROL,minus,S63
+63,I demand attention.,Steadiness ,SELF-CONTROL,minus,S64
+64,I do crazy things.,Steadiness ,SELF-CONTROL,minus,S65
+65,I use flattery to get ahead.,Steadiness ,SELF-CONTROL,minus,S66
+66,I make rash decisions.,Steadiness ,SELF-CONTROL,minus,S67
+67,I use swear words.,Steadiness ,SELF-CONTROL,minus,S68
+68,I make a lot of noise.,Steadiness ,SELF-CONTROL,minus,S69
+69,I do a lot in my spare time.,Steadiness ,POLITENESS,plus,P70
+70,I respect the opinions of others.,Steadiness ,POLITENESS,plus,P71
+71,I am easily put out.,Steadiness ,POLITENESS,minus,P72
+72,I do things behind other people's backs.,Steadiness ,POLITENESS,minus,P73
+73,I back out at the last moment.,Steadiness ,POLITENESS,minus,P74
+74,I get annoyed with others' behaviors.,Steadiness ,POLITENESS,minus,P75
+75,I break my promises.,Steadiness ,POLITENESS,minus,P76
+76,I cut conversations short.,Steadiness ,POLITENESS,minus,P77
+77,I hang up the phone on people.,Steadiness ,POLITENESS,minus,P78
+78,I scheme against others.,Steadiness ,POLITENESS,minus,P79
+79,I don't put a lot of thought into things.,Steadiness ,POLITENESS,minus,P80
+80,I am comfortable in unfamiliar situations.,Steadiness ,HAPPINESS ,plus,H81
+81,I feel at ease with people.,Steadiness ,HAPPINESS ,plus,H82
+82,I love life.,Steadiness ,HAPPINESS ,plus,H83
+83,I am sure of my ground.,Steadiness ,HAPPINESS ,plus,H84
+84,I feel that people have a hard time understanding me.,Steadiness ,HAPPINESS ,minus,H85
+85,I am not sure where my life is going.,Steadiness ,HAPPINESS ,minus,H86
+86,I have a dark outlook on the future.,Steadiness ,HAPPINESS ,minus,H87
+87,I am often down in the dumps.,Steadiness ,HAPPINESS ,minus,H88
+88,I feel attacked by others.,Steadiness ,HAPPINESS ,minus,H89
+89,I become overwhelmed by events.,Steadiness ,HAPPINESS ,minus,H90
+90,I enjoy being reckless.,Conscientiousness,RISK-TAKING,plus,R91
+91,I take risks.,Conscientiousness,RISK-TAKING,plus,R92
+92,I seek danger.,Conscientiousness,RISK-TAKING,plus,R93
+93,I know how to get around the rules.,Conscientiousness,RISK-TAKING,plus,R94
+94,I am willing to try anything once.,Conscientiousness,RISK-TAKING,plus,R95
+95,I seek adventure.,Conscientiousness,RISK-TAKING,plus,R96
+96,I would never go hang-gliding or bungee-jumping.,Conscientiousness,RISK-TAKING,minus,R97
+97,I would never make a high risk investment.,Conscientiousness,RISK-TAKING,minus,R98
+98,I stick to the rules.,Conscientiousness,RISK-TAKING,minus,R99
+99,I avoid dangerous situations.,Conscientiousness,RISK-TAKING,minus,R100
+100,I come up with good solutions.,Conscientiousness,COMPETENCE ,plus,C101
+101,I am full of ideas.,Conscientiousness,COMPETENCE ,plus,C102
+102,I know how to apply my knowledge.,Conscientiousness,COMPETENCE ,plus,C103
+103,I am easily hurt.,Conscientiousness,COMPETENCE ,minus,C104
+104,I feel crushed by setbacks.,Conscientiousness,COMPETENCE ,minus,C105
+105,I excel in nothing at all.,Conscientiousness,COMPETENCE ,minus,C106
+106,I get confused easily.,Conscientiousness,COMPETENCE ,minus,C107
+107,I question my ability to do my work properly.,Conscientiousness,COMPETENCE ,minus,C108
+108,I am easily offended.,Conscientiousness,COMPETENCE ,minus,C109
+109,I know that I am not a special person.,Conscientiousness,COMPETENCE ,minus,C110
+110,I take the initiative.,Conscientiousness,FORCEFULNESS,plus,F111
+111,I am not embarrassed easily.,Conscientiousness,FORCEFULNESS,plus,F112
+112,I am very pleased with myself.,Conscientiousness,FORCEFULNESS,plus,F113
+113,I readily overcome setbacks.,Conscientiousness,FORCEFULNESS,plus,F114
+114,I am easily intimidated.,Conscientiousness,FORCEFULNESS,minus,F115
+115,I am afraid that I will do the wrong thing.,Conscientiousness,FORCEFULNESS,minus,F116
+116,I am easily discouraged.,Conscientiousness,FORCEFULNESS,minus,F117
+117,I have a low opinion of myself.,Conscientiousness,FORCEFULNESS,minus,F118
+118,I am apprehensive about new encounters.,Conscientiousness,FORCEFULNESS,minus,F119
+119,I give up easily.,Conscientiousness,FORCEFULNESS,minus,F120
